@@ -13,6 +13,7 @@
         android:theme="@style/Theme.Daily_Android_Follow_Up_Kotlin"
         tools:targetApi="31">
         <activity
+            
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
