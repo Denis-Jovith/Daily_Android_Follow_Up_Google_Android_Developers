@@ -1,5 +1,9 @@
 package com.example.daily_android_follow_up_kotlin
 
+//HAPPY NEW YEAR 2026 THANKS GOD
+
+
+
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
