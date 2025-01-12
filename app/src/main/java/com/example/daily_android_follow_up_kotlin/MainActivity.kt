@@ -1,7 +1,6 @@
 package com.example.daily_android_follow_up_kotlin
 
 
-
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
