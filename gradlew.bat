@@ -14,6 +14,8 @@
 @rem limitations under the License.
 @rem
 
+//HAPPY NEW YEAR 2026 THANKS GOD
+
 @if "%DEBUG%" == "" @echo off
 @rem ##########################################################################
 @rem
