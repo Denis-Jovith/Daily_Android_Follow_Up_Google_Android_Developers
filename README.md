@@ -8,15 +8,16 @@ Kotlin
 Jetpack Compose
 Android Jetpack Libraries
 MVVM Architecture
+
 📂 Project Structure
-Copy
-Edit
 Daily_Android_Follow_Up_Google_Android_Developers/
 │── app/
 │── .gitignore
 │── build.gradle.kts
 │── settings.gradle.kts
 │── README.md
+
+
 🏗️ Getting Started
 Clone the repository and open it in Android Studio to explore my Android development journey.
 
